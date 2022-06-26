@@ -5,7 +5,7 @@
 
 **分享我订阅的一些 Blog 和 Newsletter，通过 Github Actions，每天自动同步我 Feedly 上的订阅源，✅ 代表能正常订阅，❌ 代表暂无法订阅（对于无法订阅的 feed，支持 Telegram Bot、Email、Server酱等推送工具提醒更新），**[opml 下载地址](https://github.com/1997d12/my-feed-OPML/releases/download/latest/feed.opml)
 
-**最新更新时间（北京时间）：2022-06-25 11:44:55**
+**最新更新时间（北京时间）：2022-06-26 11:48:02**
 
 ## 如何使用
 
@@ -36,7 +36,7 @@ Blog
 - [✅ iPotato](https://ipotato.me)：[feed](http://ipotato.me/feed)
 - [✅ Eason Yang's Blog](https://easonyang.com/)：[feed](https://easonyang.com/atom.xml)
 - [✅ 阮一峰的网络日志](http://www.ruanyifeng.com/blog/)：[feed](http://feeds.feedburner.com/ruanyifeng)
-- [❌ 王登科的博客](https://greatdk.com)：[feed](https://greatdk.com/feed)
+- [✅ 王登科的博客](https://greatdk.com)：[feed](https://greatdk.com/feed)
 - [✅ forecho's Blog](https://blog.forecho.com/)：[feed](http://blog.forecho.com/atom.xml)
 - [✅ Limboy](https://limboy.me)：[feed](https://limboy.me/index.xml)
 - [✅ Leeyom's Blog](https://github.com/superleeyom/blog)：[feed](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)
@@ -68,10 +68,10 @@ Newsletter
 - [✅ 前端精读周刊](https://github.com/ascoders/weekly/releases)：[feed](https://github.com/ascoders/weekly/releases.atom)
 - [✅ 混沌周刊](https://weekly.love)：[feed](https://weekly.love/feed/atom/)
 - [✅ 13的Apple開發者週報](https://www.ethanhuang13.com)：[feed](https://ethanhuang13.substack.com/feed/)
-- [❌ HelloGitHub月刊](https://hellogithub.com)：[feed](https://hellogithub.com/rss)
+- [✅ HelloGitHub月刊](https://hellogithub.com)：[feed](https://hellogithub.com/rss)
 - [✅ 编程狂人周刊](https://www.tuicool.com/mags)：[feed](http://www.tuicool.com/mags/rss_programming.rss)
 - [✅ 阿里云前端技术周刊](https://github.com/aliyunfe/weekly/releases)：[feed](https://github.com/aliyunfe/weekly/releases.atom)
-- [❌ 好工具周刊](https://discuss-cn.bestxtools.com/)：[feed](https://discuss-cn.bestxtools.com/atom/t/weekly/discussions)
+- [✅ 好工具周刊](https://discuss-cn.bestxtools.com/)：[feed](https://discuss-cn.bestxtools.com/atom/t/weekly/discussions)
 - [✅ GeekPlux Lab](https://geekplux.com)：[feed](https://geekplux.com/feed.xml)
 - [✅ 野生架构师周刊](http://weekly.codelc.com/)：[feed](http://weekly.codelc.com/?format=rss)
 - [✅ DecoHack周刊](https://www.decohack.com)：[feed](https://www.decohack.com/feed)
